@@ -18,3 +18,6 @@ A simple web-based Blackjack game built using HTML, CSS, and JavaScript.
 <li>CSS for styling</li>
 
 <li>JavaScript for game logic and DOM manipulation</li>
+
+<h3>🌍 Live Demo</h3>
+Check out the live site here: https://blackjack-by-anzal.netlify.app
