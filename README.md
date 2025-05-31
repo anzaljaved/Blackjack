@@ -1,4 +1,4 @@
-🃏 <h1>Blackjack Game<h1>
+🃏 <h1>Blackjack Game</h1>
 A simple web-based Blackjack game built using HTML, CSS, and JavaScript.
 <hr>
 🎯 Features:
