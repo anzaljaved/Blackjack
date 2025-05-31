@@ -2,14 +2,15 @@
 A simple web-based Blackjack game built using HTML, CSS, and JavaScript.
 <hr>
 <h3>🎯 Features:</h3>
-Draw random cards (between 2 and 11)
+<ul>
+<li>Draw random cards (between 2 and 11)</li>
 
-Add up card values and check win/loss
+<li>Add up card values and check win/loss</li>
 
-Play again with a single click
+<li>Play again with a single click</li>
 
-Fully functional game logic without any backend
-
+<li>Fully functional game logic without any backend</li>
+</ul>
 <hr>
 <h3>🛠️ Built With:</h3>
 HTML for structure
