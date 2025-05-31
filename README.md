@@ -1,4 +1,4 @@
-🃏 Blackjack Game
+🃏 #Blackjack Game
 A simple web-based Blackjack game built using HTML, CSS, and JavaScript.
 <hr>
 🎯 Features:
