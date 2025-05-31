@@ -13,8 +13,8 @@ A simple web-based Blackjack game built using HTML, CSS, and JavaScript.
 </ul>
 <hr>
 <h3>🛠️ Built With:</h3>
-HTML for structure
+<li>HTML for structure</li>
 
-CSS for styling
+<li>CSS for styling</li>
 
-JavaScript for game logic and DOM manipulation
+<li>JavaScript for game logic and DOM manipulation</li>
